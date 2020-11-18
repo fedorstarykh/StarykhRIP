@@ -1,9 +1,4 @@
-##print("не ну это \"hell \" \nкалькулятор типа")
-##x = "lol"
-##print(x)
-##комментарий
-##x = 5
-##print(str(x) + " gg")
+
 
 from colorama import init
 from colorama import Fore, Back, Style
